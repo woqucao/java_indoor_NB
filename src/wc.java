@@ -1,3 +1,3 @@
 public class wc {
-    private static 
-}
+    private static
+}this is a test of branch
